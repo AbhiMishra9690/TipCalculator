@@ -1,0 +1,10 @@
+F:\C# project\TipCalculator\bin\Debug\TipCalculator.exe.config
+F:\C# project\TipCalculator\bin\Debug\TipCalculator.exe
+F:\C# project\TipCalculator\bin\Debug\TipCalculator.pdb
+F:\C# project\TipCalculator\obj\Debug\TipCalculator.csproj.AssemblyReference.cache
+F:\C# project\TipCalculator\obj\Debug\TipCalculator.Form1.resources
+F:\C# project\TipCalculator\obj\Debug\TipCalculator.Properties.Resources.resources
+F:\C# project\TipCalculator\obj\Debug\TipCalculator.csproj.GenerateResource.cache
+F:\C# project\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+F:\C# project\TipCalculator\obj\Debug\TipCalculator.exe
+F:\C# project\TipCalculator\obj\Debug\TipCalculator.pdb
